@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url(../img/https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Ffotos-vetores-gratis%2Ffundo-detalhes-azul-eletric%2F27&psig=AOvVaw1K9IBcneBcc6X59WcrteSj&ust=1693915509326000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKix95_1kIEDFQAAAAAdAAAAABAQ);
+    background: url(../img/IMG\ FUNDO.JPG);
     background-position: center center;
     background-size: cover cover;
     padding: 0;
@@ -30,7 +30,7 @@ main {
 }
 
 .robotron {
-    background: url(../img/estrutura.png) no-repeat;
+    background: url(../img/ROBO-removebg-preview.png) no-repeat;
     background-position: center center;
     margin: 0;
     flex-basis: 40%;
