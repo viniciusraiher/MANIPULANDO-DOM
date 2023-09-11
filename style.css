@@ -9,7 +9,7 @@
 }
 
 body {
-    background: url(../img/IMG\ FUNDO.JPG);
+    background: url(../img/fundo01.jpeg);
     background-position: center center;
     background-size: cover cover;
     padding: 0;
@@ -38,7 +38,7 @@ main {
 }
 
 .robo {
-    height: 110%;
+    height: 10%;
     z-index: 1;
     position: absolute;
     left: -20%;
